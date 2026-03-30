@@ -1,0 +1,1 @@
+também conhecida como scanner, é a primeira fase de um compilador que lê o código-fonte caractere por caractere, agrupando-os em unidades de tokens. Ela transforma o texto bruto em uma sequencia estruturada, removendo comentários, espaços em branco e identificando palavras reservadas, como _if_, _switch_, etc, variáveis e operadores

@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"4c30b9a8f8825e0b","type":"text","text":"Engenharia de software","x":-520,"y":-440,"width":250,"height":50},
+		{"id":"f1091125994508e9","x":-180,"y":-465,"width":240,"height":100,"type":"text","text":"Introdução e aplicação de conceitos de software e engenharia de software"},
+		{"id":"914e590db8ccd0f9","x":140,"y":-445,"width":250,"height":60,"type":"text","text":"Gerencia de projetos"},
+		{"id":"ff781efc91322cdb","x":480,"y":-440,"width":250,"height":60,"type":"text","text":"Admnistração de projetos"},
+		{"id":"f5cad63f336bfa29","x":840,"y":-440,"width":250,"height":60,"type":"text","text":"Análise de requisitos de software e de sistemas"},
+		{"id":"16867567a5dd228d","x":1540,"y":-440,"width":250,"height":60,"type":"text","text":"Análise e design orientado a objetos"},
+		{"id":"3be28a50343ebfa4","x":1200,"y":-440,"width":250,"height":60,"type":"text","text":"Princípios fundamentais da análise de requisitos"}
+	],
+	"edges":[
+		{"id":"490b7797165ed8ba","fromNode":"4c30b9a8f8825e0b","fromSide":"right","toNode":"f1091125994508e9","toSide":"left"},
+		{"id":"baac541639339bff","fromNode":"f1091125994508e9","fromSide":"right","toNode":"914e590db8ccd0f9","toSide":"left"},
+		{"id":"bde7587dc6fe07e9","fromNode":"914e590db8ccd0f9","fromSide":"right","toNode":"ff781efc91322cdb","toSide":"left"},
+		{"id":"abeb59cbadbdad9a","fromNode":"ff781efc91322cdb","fromSide":"right","toNode":"f5cad63f336bfa29","toSide":"left"},
+		{"id":"2fa655ba3f2bd5b5","fromNode":"3be28a50343ebfa4","fromSide":"right","toNode":"16867567a5dd228d","toSide":"left"},
+		{"id":"57dd2c1aaaed4230","fromNode":"f5cad63f336bfa29","fromSide":"right","toNode":"3be28a50343ebfa4","toSide":"left"}
+	]
+}
