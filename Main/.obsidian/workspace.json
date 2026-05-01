@@ -4,27 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "347c105bfcda2384",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8b4c851eb40c9adb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Estudos/Compiladores/Seminario/Análise Sintática.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Análise Sintática"
-            },
-            "group": "df66edbb835dd1a7"
-          }
-        ]
-      },
-      {
         "id": "0ae26e4b06ffe88e",
         "type": "tabs",
         "children": [
@@ -34,14 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Estudos/Compiladores/Seminario/Análise Sintática.md",
-                "mode": "preview",
+                "file": "05 - Projetos/02 - Terra/Terra.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Análise Sintática"
-            },
-            "group": "df66edbb835dd1a7"
+              "title": "Terra"
+            }
           }
         ]
       }
@@ -66,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de ficheiros"
+              "title": "Files"
             }
           },
           {
@@ -191,8 +169,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -204,26 +182,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "switcher:Abrir Quick Switcher": false,
-      "graph:Abrir Visualização de diagrama de grafo": false,
-      "canvas:Criar novo Canvas": false,
-      "daily-notes:Abrir nota de hoje": false,
-      "templates:Inserir templates": false,
-      "command-palette:Abrir paleta de comando": false,
-      "bases:Criar nova base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "periodic-notes:Open today": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b4c851eb40c9adb",
+  "active": "86ba996a36cd4baf",
   "lastOpenFiles": [
-    "02 - Estudos/Compiladores/Seminario/Analise Léxica.md",
+    "05 - Projetos/02 - Terra/Superpopulação e megaurbanização.md",
+    "05 - Projetos/02 - Terra/Terra.md",
+    "05 - Projetos/05 - Canvas/Linha do tempo.canvas",
+    "05 - Projetos/02 - Terra",
+    "05 - Projetos/00 - Ideias/Ficha.md",
+    "05 - Projetos/00 - Ideias/Cyberpsicose.md",
+    "05 - Projetos/05 - Canvas",
+    "05 - Projetos/06 - Arquivos",
+    "05 - Projetos/04 - NPCs",
+    "05 - Projetos/03 - Sessões",
+    "05 - Projetos/00 - Ideias",
     "02 - Estudos/Compiladores/Seminario/Análise Sintática.md",
+    "02 - Estudos/Compiladores/Seminario/Analise Léxica.md",
     "02 - Estudos/Compiladores/Seminario/Token.md",
     "02 - Estudos/Compiladores/Seminario/AST.md",
     "00 - Inbox/Curriculo.md",
-    "05 - Projetos/01 - ARCA IX/Cyberpsicose.md",
     "00 - Inbox/Par trançado.md",
     "05 - Projetos/01 - ARCA IX",
     "02 - Estudos/Ingles/Parsing.md",
@@ -238,21 +226,13 @@
     "02 - Estudos/Ingles/20-03.md",
     "02 - Estudos/Compiladores/Seminario",
     "02 - Estudos/Compiladores",
-    "02 - Estudos/Ingles",
     "01 - Dia a Dia/2026-03-19.md",
-    "02 - Estudos/Docker",
     "04 - Trabalho/Tasks/SFIN-658.md",
-    "04 - Trabalho/Tasks",
     "_Templates/Daily Note.md",
-    "02 - Estudos/Redes",
     "01 - Dia a Dia/2026-03-18.md",
     "01 - Dia a Dia/2026-03-17.md",
     "01 - Dia a Dia/2026-03-16.md",
     "01 - Dia a Dia/16-03-2026.md",
-    "2026-03-16.md",
-    "_Templates/Nota de estudo.md",
-    "_Templates",
-    "05 - Projetos",
-    "Welcome.md"
+    "2026-03-16.md"
   ]
 }
